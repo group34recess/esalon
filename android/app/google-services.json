@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "110296077868",
+    "project_id": "esalonapp-59768",
+    "storage_bucket": "esalonapp-59768.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110296077868:android:01595ee8018ae5c6b1e389",
+        "android_client_info": {
+          "package_name": "com.flutterflow.esalon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110296077868-kdip9hnmaqvok0mlpj77t7uc6d8da22d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.esalon",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "110296077868-unqmjpp5b5irnjgig3eo8nqi7sh6fqgo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.esalon",
+            "certificate_hash": "c21f2c8ad0e17ddee4695707e8f08510046926df"
+          }
+        },
+        {
+          "client_id": "110296077868-6fkuo7qn1np79crctpkc7d27u4891ssr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjKDXbFx0QcgiPComA-aJpH81Qhd8BA9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110296077868-6fkuo7qn1np79crctpkc7d27u4891ssr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "110296077868-3kfej7637l4u0inbacdr45idl94e2vgf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.esalon"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
